@@ -201,10 +201,14 @@
 #define hypot _hypot
 #define pclose _pclose
 #define popen _popen
+#if _MSC_VER < 1900
 #define snprintf _snprintf
+#endif
 #define strdup _strdup
 #define unlink _unlink
+#if _MSC_VER < 1900
 #define vsnprintf _vsnprintf
+#endif
 #endif
 
 #ifdef _MSC_VER
