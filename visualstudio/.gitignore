@@ -1,0 +1,6 @@
+*.suo
+*.sdf
+*.VC.opendb
+*.user
+Debug
+Release
