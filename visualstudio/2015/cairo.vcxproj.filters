@@ -401,6 +401,9 @@
     <ClCompile Include="..\..\src\win32\cairo-win32-font.c">
       <Filter>Source Files\win32</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\src\cairo-membuffer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\src\cairo-xcb.h">
@@ -744,6 +747,9 @@
     </ClInclude>
     <ClInclude Include="..\..\cairo-features.h">
       <Filter>Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\cairo-membuffer.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
