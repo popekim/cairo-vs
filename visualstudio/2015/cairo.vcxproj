@@ -284,7 +284,6 @@
     <ClCompile Include="..\..\src\win32\cairo-win32-system.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\cairo-features.h" />
     <ClInclude Include="..\..\cairo-version.h" />
     <ClInclude Include="..\..\src\cairo-analysis-surface-private.h" />
     <ClInclude Include="..\..\src\cairo-arc-private.h" />
@@ -315,6 +314,7 @@
     <ClInclude Include="..\..\src\cairo-drm.h" />
     <ClInclude Include="..\..\src\cairo-error-inline.h" />
     <ClInclude Include="..\..\src\cairo-error-private.h" />
+    <ClInclude Include="..\..\src\cairo-features.h" />
     <ClInclude Include="..\..\src\cairo-fixed-private.h" />
     <ClInclude Include="..\..\src\cairo-fixed-type-private.h" />
     <ClInclude Include="..\..\src\cairo-fontconfig-private.h" />

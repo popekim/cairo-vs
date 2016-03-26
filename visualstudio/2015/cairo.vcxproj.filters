@@ -745,11 +745,11 @@
     <ClInclude Include="..\..\cairo-version.h">
       <Filter>Settings</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\cairo-features.h">
-      <Filter>Settings</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\src\cairo-membuffer.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\cairo-features.h">
+      <Filter>Settings</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
