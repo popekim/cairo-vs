@@ -35,3 +35,4 @@ stamp-h.in
 *.rej
 *-uninstalled.pc
 .vimrc
+visualstudio/2015/cairo.VC.db
